@@ -1,0 +1,360 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Oswald&family=Poppins:ital@0;1&family=Rubik&display=swap');
+
+.car {
+
+height:80px;
+width: 18%;
+margin-top: 10px;
+margin-left:20px;
+}
+
+
+#header
+{
+height: 100px;
+background-color: rgba(80, 2, 47, 0.986);
+
+}
+#header ul
+{
+float: right;
+margin-top:35px;
+}
+#header ul li
+{
+display: inline-block;
+margin-right: 30px;
+text-decoration: none;
+}
+#header ul li a{
+ color: #FFF;
+ text-decoration: none;
+
+}
+#header ul li a:hover{
+
+border-bottom: 4px solid rgb(255, 12, 12);
+transition: -1s;
+padding-bottom:10px;
+background-color: #FFF;
+color: deeppink;
+font-weight: bold;
+border-radius:4px;
+padding: 10px;
+}
+.auditext
+
+{
+float: right;
+padding-top: 60px;
+color: black;
+font-size:25px;
+
+}
+.auditext #auditext
+{
+
+color: blue;
+font-size:40px;
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-weight: bold;
+}
+
+.container1 img{
+
+height:max-content;
+margin-top:0px;
+}
+.box-container
+{
+background-color: rgb(211, 203, 203);
+
+
+}
+.content img:hover
+{
+display: none;
+transition:-1;
+position: relative;
+box-shadow:20px red;
+
+
+}
+#auditext1
+{
+margin-left:100px;
+color:#fff;
+margin-top: 20px;
+background-color: rgb(17, 116, 17);
+padding: 10px 20px 10px 25px ;
+border: 1px solid green;
+border-radius: 20px;
+font-size: 20px;
+}
+
+#auditext1:hover
+{
+background-color: rgb(175, 20, 0);
+}
+.box-container
+{
+width: 100%;
+max-width: 1440px;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-wrap: wrap;
+gap: 40px;
+}
+.box
+{
+width:400px;
+padding: 15px;
+min-height: 430px;
+border-radius:10px;
+}
+.box h1{
+
+text-align: center;
+
+}
+.btn1
+{
+margin-left: 90px;
+color: rgb(247, 247, 247);
+}
+
+
+.box p{
+padding-left: 40px;
+
+
+}
+
+.box1
+{
+    background-color: rgb(4, 122, 122);border-top-left-radius: 10px;
+ border-top-left-radius: 10px;
+ border-bottom-left-radius: 10px;
+}
+.box2
+{
+    background-color: rgb(92, 107, 107);border-top-left-radius: 10px;
+ 
+}
+.box3
+{
+    background-color: rgb(164, 180, 180);
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.content img
+{
+
+padding:30px;
+
+
+}
+.box :hover{
+
+background-size: 80px;
+margin-right:60px;
+}
+
+.fooder
+{
+background-color: black;
+height: 600px;
+color: #FFF;
+padding: 70px 0;
+
+}
+.container4
+{
+margin: auto;
+
+}
+
+.footer-col
+{
+width: 25px;
+padding: 0 15px;
+
+}
+.footer-col ul{
+
+list-style:none ;
+
+}
+.row
+{
+
+display: flex;
+flex-wrap: wrap;
+
+}
+.search input
+{
+border: 2px solid rgb(0, 0, 0);
+border-radius: 7px;
+background-color: rgb(216, 211, 203);
+color: blue;
+margin-left: 400px;
+height:50px;
+font-weight: blod;
+padding-left:90px;
+
+
+}
+
+.contianer3
+{
+
+height: 400px;
+width: 100%;
+
+
+}
+
+.coloum3
+{
+
+display: inline-flex;
+padding: 100px;
+gap: 100px;
+
+}
+
+.column1
+{
+    background-color: rgb(105, 209, 250);
+    border: 2px solid black;
+    border-radius: 12px;
+    padding:20px;
+    width: 350px;
+
+}
+.column2
+{
+    background-color: rgb(54, 219, 96);
+padding:20px;
+border: 2px solid black;
+border-radius: 12px;
+padding-left:50px;
+}
+.column1:hover{
+background-color: cornsilk;
+    
+}
+.column2:hover{
+    background-color: cornsilk;
+        
+    }
+    .column3:hover{
+        background-color: cornsilk;
+            
+        }
+
+
+.column3
+{
+    background-color: rgb(233, 105, 184);
+padding:60px;
+border-radius: 12px;
+border: 2px solid black;
+
+}
+
+#about
+{
+color: rgb(219, 31, 31);
+
+
+}
+#about h1{
+
+
+
+}
+
+
+.search button{
+
+color: #FFF;
+border-radius: 20px;
+height: 50px;
+width: 120px;
+background-color: rgb(17, 163, 17);
+text-align: center;
+justify-items: center;
+border-style: double;
+
+
+
+}
+
+#copy
+
+{
+color: #FFF;
+
+}
+#copy a
+{
+text-decoration: none;
+}
+.poster
+{
+
+
+
+}
+
+.post 
+{
+margin: 40px;
+display: flex;
+gap: 20px;
+
+}
+
+.post img:hover{
+
+
+
+}
+
+#write
+{
+margin: 20px;
+color: rgb(150, 20, 150);
+    font-size:25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#last
+{
+color: rgba(58, 122, 206, 0.904);
+
+
+}
+.full
+{
+background-color: rgb(175, 115, 37);
+}
+.icons
+{
+height: 100px;
+
+    
+}
+.icons i{
+
+display: inline-flex;
+margin-left: 90px;
+margin-top: 40px;
+
+
+
+}
